@@ -31,7 +31,7 @@ myMap.geoObjects.add(myCircle);
 </head> 
  
 <body> 
-<h2>Добавление квадрата на карту</h2> 
+<h2>Добавление круга на карту</h2> 
  
 <div id="map" style="width:600px;height:400px"></div> 
 </body> 

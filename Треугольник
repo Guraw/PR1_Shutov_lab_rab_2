@@ -29,7 +29,7 @@
         }     </script> 
 </head>  
 <body> 
-<h2>Добавление прямоугольника на карту</h2>  
+<h2>Добавление треугольника на карту</h2>  
 <div id="map" style="width:600px;height:400px"></div> </body>  
 </html>  
  
